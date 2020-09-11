@@ -1,0 +1,19 @@
+{
+  "name": "mayurs-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MThakkar121/Mayurs-website.git"
+  },
+  "author": "mayur_thakkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MThakkar121/Mayurs-website/issues"
+  },
+  "homepage": "https://github.com/MThakkar121/Mayurs-website#readme"
+}
